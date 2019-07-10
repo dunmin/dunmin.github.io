@@ -1,89 +1,117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>https://dunmin.github.io/post/</link>
-    <description>Recent content in Posts on </description>
+    <title>Posts on dunmin blog</title>
+    <link>http://dunmin.github.io/post/</link>
+    <description>Recent content in Posts on dunmin blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dunmin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dunmin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://dunmin.github.io/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Comments example</title>
+      <link>http://dunmin.github.io/post/comments-example/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dunmin.github.io/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>http://dunmin.github.io/post/comments-example/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Awesomeness</title>
-      <link>https://dunmin.github.io/post/awesomeness/</link>
-      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Ante mattis interdum dolor</title>
+      <link>http://dunmin.github.io/post/post2/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dunmin.github.io/post/awesomeness/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>http://dunmin.github.io/post/post2/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Wonderful</title>
-      <link>https://dunmin.github.io/post/wonderful/</link>
-      <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Tempus sed nulla imperdiet</title>
+      <link>http://dunmin.github.io/post/post5/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dunmin.github.io/post/wonderful/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>http://dunmin.github.io/post/post5/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://dunmin.github.io/post/getting-started-with-hugo/</link>
-      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      <title>Odio magna sed consectetur</title>
+      <link>http://dunmin.github.io/post/post4/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dunmin.github.io/post/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>http://dunmin.github.io/post/post4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://dunmin.github.io/post/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Augue lorem primis vestibulum</title>
+      <link>http://dunmin.github.io/post/post3/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dunmin.github.io/post/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>http://dunmin.github.io/post/post3/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://dunmin.github.io/post/migrate-to-hugo-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Primis eget imperdiet lorem</title>
+      <link>http://dunmin.github.io/post/post6/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dunmin.github.io/post/migrate-to-hugo-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>http://dunmin.github.io/post/post6/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Colenak</title>
-      <link>https://dunmin.github.io/post/colenak/</link>
-      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
+      <title>Ante mattis interdum dolor</title>
+      <link>http://dunmin.github.io/post/post7/</link>
+      <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dunmin.github.io/post/colenak/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>http://dunmin.github.io/post/post7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augue lorem primis vestibulum</title>
+      <link>http://dunmin.github.io/post/post8/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://dunmin.github.io/post/post8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first post</title>
+      <link>http://dunmin.github.io/post/post/</link>
+      <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://dunmin.github.io/post/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dunmin.github.io/post/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dunmin.github.io/post/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF%E8%AE%B0%E5%BD%95/</guid>
+      <description>服务器信息记录 脚下的服务器： 172.18.110.60
+http://172.18.110.60:8000/admin/
+机房: 202.116.161.86
+202.116.161.86
+耀华的文件共享 172.18.110.185</description>
+    </item>
+    
+    <item>
+      <title>Primis eget imperdiet lorem</title>
+      <link>http://dunmin.github.io/post/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dunmin.github.io/post/post1/</guid>
+      <description>Example of post with missing date property.</description>
     </item>
     
   </channel>
