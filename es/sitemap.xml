@@ -3,213 +3,213 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://dunmin.github.io/es/post/comments-example/</loc>
+    <loc>https://dunmin.github.io/es/post/comments-example/</loc>
     <lastmod>2018-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/post/comments-example/"
+                href="https://dunmin.github.io/post/comments-example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/post/comments-example/"
+                href="https://dunmin.github.io/es/post/comments-example/"
                 />
   </url>
   
   <url>
-    <loc>http://dunmin.github.io/es/</loc>
-    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://dunmin.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://dunmin.github.io/es/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://dunmin.github.io/es/post/</loc>
+    <loc>https://dunmin.github.io/es/</loc>
     <lastmod>2018-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/post/"
+                href="https://dunmin.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/post/"
+                href="https://dunmin.github.io/es/"
                 />
   </url>
   
   <url>
-    <loc>http://dunmin.github.io/es/post/post2/</loc>
+    <loc>https://dunmin.github.io/es/post/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dunmin.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dunmin.github.io/es/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dunmin.github.io/es/post/post2/</loc>
     <lastmod>2017-04-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/post/post2/"
+                href="https://dunmin.github.io/post/post2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/post/post2/"
+                href="https://dunmin.github.io/es/post/post2/"
                 />
   </url>
   
   <url>
-    <loc>http://dunmin.github.io/es/post/post5/</loc>
+    <loc>https://dunmin.github.io/es/post/post5/</loc>
     <lastmod>2017-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/post/post5/"
+                href="https://dunmin.github.io/post/post5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/post/post5/"
+                href="https://dunmin.github.io/es/post/post5/"
                 />
   </url>
   
   <url>
-    <loc>http://dunmin.github.io/es/post/post4/</loc>
+    <loc>https://dunmin.github.io/es/post/post4/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/post/post4/"
+                href="https://dunmin.github.io/post/post4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/post/post4/"
+                href="https://dunmin.github.io/es/post/post4/"
                 />
   </url>
   
   <url>
-    <loc>http://dunmin.github.io/es/post/post3/</loc>
+    <loc>https://dunmin.github.io/es/post/post3/</loc>
     <lastmod>2017-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/post/post3/"
+                href="https://dunmin.github.io/post/post3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/post/post3/"
+                href="https://dunmin.github.io/es/post/post3/"
                 />
   </url>
   
   <url>
-    <loc>http://dunmin.github.io/es/post/post6/</loc>
+    <loc>https://dunmin.github.io/es/post/post6/</loc>
     <lastmod>2017-03-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/post/post6/"
+                href="https://dunmin.github.io/post/post6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/post/post6/"
+                href="https://dunmin.github.io/es/post/post6/"
                 />
   </url>
   
   <url>
-    <loc>http://dunmin.github.io/es/post/post7/</loc>
+    <loc>https://dunmin.github.io/es/post/post7/</loc>
     <lastmod>2017-03-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/post/post7/"
+                href="https://dunmin.github.io/post/post7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/post/post7/"
+                href="https://dunmin.github.io/es/post/post7/"
                 />
   </url>
   
   <url>
-    <loc>http://dunmin.github.io/es/post/post8/</loc>
+    <loc>https://dunmin.github.io/es/post/post8/</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/post/post8/"
+                href="https://dunmin.github.io/post/post8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/post/post8/"
+                href="https://dunmin.github.io/es/post/post8/"
                 />
   </url>
   
   <url>
-    <loc>http://dunmin.github.io/es/post/post/</loc>
+    <loc>https://dunmin.github.io/es/post/post/</loc>
     <lastmod>2012-02-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/post/post/"
+                href="https://dunmin.github.io/post/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/post/post/"
+                href="https://dunmin.github.io/es/post/post/"
                 />
   </url>
   
   <url>
-    <loc>http://dunmin.github.io/es/categories/</loc>
+    <loc>https://dunmin.github.io/es/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/categories/"
+                href="https://dunmin.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/categories/"
+                href="https://dunmin.github.io/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://dunmin.github.io/es/post/post1/</loc>
+    <loc>https://dunmin.github.io/es/post/post1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/post/post1/"
+                href="https://dunmin.github.io/post/post1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/post/post1/"
+                href="https://dunmin.github.io/es/post/post1/"
                 />
   </url>
   
   <url>
-    <loc>http://dunmin.github.io/es/tags/</loc>
+    <loc>https://dunmin.github.io/es/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dunmin.github.io/tags/"
+                href="https://dunmin.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dunmin.github.io/es/tags/"
+                href="https://dunmin.github.io/es/tags/"
                 />
   </url>
   

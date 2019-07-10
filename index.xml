@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dunmin blog</title>
-    <link>http://dunmin.github.io/</link>
+    <link>https://dunmin.github.io/</link>
     <description>Recent content on dunmin blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dunmin.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dunmin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comments example</title>
-      <link>http://dunmin.github.io/post/comments-example/</link>
+      <link>https://dunmin.github.io/post/comments-example/</link>
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://dunmin.github.io/post/comments-example/</guid>
+      <guid>https://dunmin.github.io/post/comments-example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ante mattis interdum dolor</title>
-      <link>http://dunmin.github.io/post/post2/</link>
+      <link>https://dunmin.github.io/post/post2/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://dunmin.github.io/post/post2/</guid>
+      <guid>https://dunmin.github.io/post/post2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tempus sed nulla imperdiet</title>
-      <link>http://dunmin.github.io/post/post5/</link>
+      <link>https://dunmin.github.io/post/post5/</link>
       <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://dunmin.github.io/post/post5/</guid>
+      <guid>https://dunmin.github.io/post/post5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Odio magna sed consectetur</title>
-      <link>http://dunmin.github.io/post/post4/</link>
+      <link>https://dunmin.github.io/post/post4/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://dunmin.github.io/post/post4/</guid>
+      <guid>https://dunmin.github.io/post/post4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
       <title>Augue lorem primis vestibulum</title>
-      <link>http://dunmin.github.io/post/post3/</link>
+      <link>https://dunmin.github.io/post/post3/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://dunmin.github.io/post/post3/</guid>
+      <guid>https://dunmin.github.io/post/post3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Primis eget imperdiet lorem</title>
-      <link>http://dunmin.github.io/post/post6/</link>
+      <link>https://dunmin.github.io/post/post6/</link>
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://dunmin.github.io/post/post6/</guid>
+      <guid>https://dunmin.github.io/post/post6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ante mattis interdum dolor</title>
-      <link>http://dunmin.github.io/post/post7/</link>
+      <link>https://dunmin.github.io/post/post7/</link>
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://dunmin.github.io/post/post7/</guid>
+      <guid>https://dunmin.github.io/post/post7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Augue lorem primis vestibulum</title>
-      <link>http://dunmin.github.io/post/post8/</link>
+      <link>https://dunmin.github.io/post/post8/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://dunmin.github.io/post/post8/</guid>
+      <guid>https://dunmin.github.io/post/post8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>first post</title>
-      <link>http://dunmin.github.io/post/post/</link>
+      <link>https://dunmin.github.io/post/post/</link>
       <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://dunmin.github.io/post/post/</guid>
+      <guid>https://dunmin.github.io/post/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://dunmin.github.io/post/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF%E8%AE%B0%E5%BD%95/</link>
+      <link>https://dunmin.github.io/post/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF%E8%AE%B0%E5%BD%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dunmin.github.io/post/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF%E8%AE%B0%E5%BD%95/</guid>
+      <guid>https://dunmin.github.io/post/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF%E8%AE%B0%E5%BD%95/</guid>
       <description>服务器信息记录 脚下的服务器： 172.18.110.60
 http://172.18.110.60:8000/admin/
 机房: 202.116.161.86
@@ -107,10 +107,10 @@ http://172.18.110.60:8000/admin/
     
     <item>
       <title>Primis eget imperdiet lorem</title>
-      <link>http://dunmin.github.io/post/post1/</link>
+      <link>https://dunmin.github.io/post/post1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dunmin.github.io/post/post1/</guid>
+      <guid>https://dunmin.github.io/post/post1/</guid>
       <description>Example of post with missing date property.</description>
     </item>
     
